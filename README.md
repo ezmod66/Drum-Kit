@@ -7,7 +7,7 @@ Mini project that used Javascript concepts and Dom manipulation to create a a dr
 <a href="https://ezmod66.github.io/Drum-Kit/"> Click here to Look at a live Preview</a>
 
 <hr>
-<strong>Note to self</strong>
+<strong>Note to self</strong><br>
 Concepts used:
 Event listeners(on click and key down press)
 higher order functions
