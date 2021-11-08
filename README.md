@@ -8,8 +8,10 @@ Mini project that used Javascript concepts and Dom manipulation to create a a dr
 
 <hr>
 <strong>Note to self</strong><br>
-Concepts used:<br>
-Event listeners(on click and key down press)<br>
-higher order functions<br>
-understanding call backs and how to handle.
+<ul>
+<li>Concepts used:</li>
+<li>Event listeners(on click and key down press)</li>
+<li>higher order functions</li>
+<li>understanding call backs and how to handle.</li>
+</ul>
 
